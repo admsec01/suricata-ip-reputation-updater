@@ -1,4 +1,4 @@
-# Suricata IP Reputation Updater
+# Suricata Bad IP Reputation Updater
 
 This repository contains a script to update the IP reputation list used by Suricata for network security monitoring. The script downloads an IP list from a specified URL, processes it to filter out valid IP addresses, and updates the Suricata reputation list.
 
